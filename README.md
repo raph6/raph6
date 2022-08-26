@@ -4,10 +4,14 @@
 
 <p align="center">à la recherche d'opportunité en Chine<br>在中国找工作</p>
 
-<p align="center" style="background: #f7f3e8;padding: 4px;border-radius: 8px;padding: 16px 80px;margin: 16px 0;display: inline-block;">
+<p align="center">
     <img src="img/go.svg" alt="go" height="50">
     <img src="img/vuejs.svg" alt="vuejs" height="50">
     <img src="img/docker.svg" alt="docker" height="50">
-    <img src="img/sh.svg" alt="shell" height="50">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="img/sh_light.svg">
+        <source media="(prefers-color-scheme: light)" srcset="img/sh_dark.svg">
+        <img src="img/sh_dark.svg" alt="shell" height="50">
+    </picture>
     <img src="img/archlinux.svg" alt="arch linux" height="50">
 </p>
