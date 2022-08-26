@@ -4,7 +4,7 @@
 
 <p align="center">à la recherche d'opportunité en Chine<br>在中国找工作</p>
 
-<p align="center">
+<p align="center" style="background: #f7f3e8;padding: 4px;border-radius: 8px;padding: 16px 80px;margin: 16px 0;display: inline-block;">
     <img src="img/go.svg" alt="go" height="50">
     <img src="img/vuejs.svg" alt="vuejs" height="50">
     <img src="img/docker.svg" alt="docker" height="50">
