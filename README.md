@@ -6,12 +6,10 @@
 
 <p align="center">
     <img src="img/go.svg" alt="go" height="50">
-    <img src="img/vuejs.svg" alt="vuejs" height="50">
+    <img src="img/graphql.svg" alt="graphql" height="50">
+    <img src="img/traefik.svg" alt="traefik" height="50">
     <img src="img/docker.svg" alt="docker" height="50">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="img/sh_light.svg">
-        <source media="(prefers-color-scheme: light)" srcset="img/sh_dark.svg">
-        <img src="img/sh_dark.svg" alt="shell" height="50">
-    </picture>
-    <img src="img/archlinux.svg" alt="arch linux" height="50">
+    <img src="img/mongodb.svg" alt="mongodb" height="50">
 </p>
+
+<p align="center">intéressé par Rust/Go et le machine learning<br>对 Rust/Go 和机器学习感兴趣</p>
