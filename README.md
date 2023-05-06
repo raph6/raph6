@@ -1,7 +1,7 @@
 <h1 align="center">Raphaël BLEUZET</h1>
 
 <p align="center">
-    <img src="img/go.svg" alt="go" height="70">
+    <img src="img/Go-Logo_LightBlue.svg" alt="go" height="90">
 </p>
 
 <p align="center">développeur back-end</p>
