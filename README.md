@@ -11,4 +11,4 @@
     <img src="img/docker.svg" alt="docker" height="50">
 </p>
 
-<p align="center">intéressé par l'automatisation en Rust/Go et le machine learning</p>
+<p align="center">intéressé par l'automatisation en Rust/Go</p>
